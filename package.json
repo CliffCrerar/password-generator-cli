@@ -1,5 +1,5 @@
 {
-  "name": "ran-pw-cli",
+  "name": "randon-password-cli",
   "version": "0.0.4-alpha",
   "description": "Cli command for generating strong passwords",
   "main": "app.js",
