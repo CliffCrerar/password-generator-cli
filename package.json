@@ -1,0 +1,33 @@
+{
+  "name": "ran-pw-cli",
+  "version": "0.0.4-alpha",
+  "description": "Cli command for generating strong passwords",
+  "main": "app.js",
+  "bin": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffCrerar/password-generator-cli.git"
+  },
+  "keywords": [
+    "generate",
+    "strong",
+    "passwords",
+    "command",
+    "line",
+    "interface"
+  ],
+  "author": "{name:Cliff Crerar, email: me@softwarecraft.co.za}",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CliffCrerar/password-generator-cli/issues"
+  },
+  "homepage": "https://github.com/CliffCrerar/password-generator-cli#readme",
+  "dependencies": {
+    "generate-password": "^1.7.0",
+    "lodash": "^4.17.21",
+    "npm": "^9.2.0"
+  }
+}
