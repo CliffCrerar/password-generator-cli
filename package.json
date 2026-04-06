@@ -27,7 +27,7 @@
   "homepage": "https://github.com/CliffCrerar/password-generator-cli#readme",
   "dependencies": {
     "generate-password": "^1.7.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "npm": "^9.2.0"
   }
 }
